@@ -1,4 +1,4 @@
-Summary : 
+## Summary  
 
 The 'Snack_Water_Gun' game is a Python program that simulates a playful and interactive game reminiscent of the classic 'Rock, Paper, Scissors' game. 
 In this game, players choose between three options: 'Snack', 'Water' or 'Gun'.
